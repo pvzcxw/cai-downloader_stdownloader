@@ -239,7 +239,7 @@ q. 退出程序
 
 - **作者**：pvzcxw  
 - **官方 QQ 群**：993782526  
-- **Bilibili**：[菜Games-pvzcxw](https://m.bilibili.com/space/49307545) 
+- **Bilibili**：[菜Games-pvzcxw](https://space.bilibili.com/49307545) 
 
 > 本项目完全免费，请勿用于商业用途。如有问题请在 GitHub 仓库提交 Issue 或加入 QQ 群反馈。
 
